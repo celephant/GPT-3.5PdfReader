@@ -1,4 +1,4 @@
-# GPT-3.5PdfReader
+# PDF Reader with ChatGPT
 
 PDF Reader with OpenAI GPT-3 API
 This is a Python program that allows users to upload a PDF file and generate answers to their questions using OpenAI's GPT-3 API. The program uses the PyPDF2 library to extract text from the PDF file, and the OpenAI API to generate answers to user questions.
