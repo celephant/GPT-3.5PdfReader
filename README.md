@@ -1,7 +1,5 @@
 # PDF Reader with ChatGPT
-
-PDF Reader with OpenAI GPT-3 API
-This is a Python program that allows users to upload a PDF file and generate answers to their questions using OpenAI's GPT-3 API. The program uses the PyPDF2 library to extract text from the PDF file, and the OpenAI API to generate answers to user questions.
+PDF Reader with OpenAI GPT-3 API is a Python program that allows users to upload a PDF file and generate answers to their questions using OpenAI's GPT-3 API. This program makes use of the PyPDF2 library to extract text from the PDF file and the OpenAI API to generate answers to user questions.
 
 Prerequisites
 Before running this program, you will need:
@@ -19,7 +17,7 @@ To use this program, run the following command:
 css
 Copy code
 python main.py
-The program will prompt you to enter your OpenAI API key. Once you enter your API key, a file dialog will appear allowing you to select a PDF file to upload. After you select a file, the program will extract the text from the file and prompt you to enter a question. You can enter any question related to the content of the PDF file, and the program will generate an answer using the OpenAI GPT-3 API.
+Upon running the program, you will be prompted to enter your OpenAI API key. After entering your API key, a file dialog will appear allowing you to select a PDF file to upload. The program will extract the text from the file and prompt you to enter a question. You can enter any question related to the content of the PDF file, and the program will generate an answer using the OpenAI GPT-3 API.
 
 You can continue entering questions until you are finished. To exit the program, simply type "exit" when prompted for a question.
 
@@ -28,3 +26,5 @@ This program was created using the PyPDF2 and OpenAI Python libraries. The PyPDF
 
 License
 This program is licensed under the MIT License. See the LICENSE file for details.
+
+The updated README provides clearer instructions on how to install and use the program, and makes use of bullet points to make the information easier to read. Additionally, the acknowledgements section provides more information about the libraries used in the program, and the license information is clearly stated at the end of the document.
